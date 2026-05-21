@@ -1,0 +1,14 @@
+/home/phoenix/.openclaw/workspace/superinstance-ffi/target/release/deps/serde-fc9e48a12ddfc609.d: /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/phoenix/.openclaw/workspace/superinstance-ffi/target/release/build/serde-6b514c38d5227659/out/private.rs
+
+/home/phoenix/.openclaw/workspace/superinstance-ffi/target/release/deps/libserde-fc9e48a12ddfc609.rlib: /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/phoenix/.openclaw/workspace/superinstance-ffi/target/release/build/serde-6b514c38d5227659/out/private.rs
+
+/home/phoenix/.openclaw/workspace/superinstance-ffi/target/release/deps/libserde-fc9e48a12ddfc609.rmeta: /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/phoenix/.openclaw/workspace/superinstance-ffi/target/release/build/serde-6b514c38d5227659/out/private.rs
+
+/home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/phoenix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/phoenix/.openclaw/workspace/superinstance-ffi/target/release/build/serde-6b514c38d5227659/out/private.rs:
+
+# env-dep:OUT_DIR=/home/phoenix/.openclaw/workspace/superinstance-ffi/target/release/build/serde-6b514c38d5227659/out
