@@ -1,0 +1,11 @@
+{
+  "name": "@superinstance/math",
+  "version": "0.1.0",
+  "description": "SuperInstance math primitives for the browser",
+  "main": "pkg/superinstance_ffi_wasm.js",
+  "types": "pkg/superinstance_ffi_wasm.d.ts",
+  "scripts": {
+    "build": "wasm-pack build --target web",
+    "test": "node tests/math.test.js"
+  }
+}
