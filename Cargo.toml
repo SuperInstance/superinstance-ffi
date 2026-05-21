@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 description = "Unified FFI crate for SuperInstance math primitives"
 license = "MIT"
+repository = "https://github.com/SuperInstance/superinstance-ffi"
+readme = "README.md"
 
 [lib]
 crate-type = ["cdylib", "staticlib", "lib"]
