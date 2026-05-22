@@ -1,3 +1,4 @@
+#![allow(clippy::not_unsafe_ptr_arg_deref)]
 mod eisenstein;
 mod laman;
 mod holonomy;
